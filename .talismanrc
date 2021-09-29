@@ -2,4 +2,6 @@ fileignoreconfig:
 - filename: jsx_demo/yarn.lock
   checksum: 9235cdb0fc17939c385270d00fc4b7f3e09480ed82fb59488c464063b5ddbe7b
 - filename: components/yarn.lock
-  checksum: a5e2a7fba989549545b1e0f0b6dd7086c52d6c3b26d6fa7d11e67ea0f9087718
+  checksum: a659330bf2d6b58de54d495a1af60a4e94b5e46b3e583af5e97cffec97f47038
+- filename: components/package-lock.json
+  checksum: 1d4d0be6fc15ee4f912e03ac8121232b76392536b50ced59230f350118f37001
