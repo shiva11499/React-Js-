@@ -5,3 +5,5 @@ fileignoreconfig:
   checksum: 90cc8d90217b1a4aa7e77689170e754eda245538cedfce69a88fc3177bdad312
 - filename: components/package-lock.json
   checksum: f197ac91144f998e757892caa4941e6e1466a4a98342bebcebb9ca905539a163
+- filename: seasons/yarn.lock
+  checksum: 50c7bc8da7cee2f635cfb9a68513940679c2d1dc02cbc30a2c79e9689947c8f8
