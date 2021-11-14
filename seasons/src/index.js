@@ -6,12 +6,23 @@ if (module.hot) {
 }
 
 class App extends React.Component {
-  render() {
+  constructor(props) {
+    super(props);
+
+    //This is the only time we do direct assignment to this.state
+    this.state = { lat: null };
+
     window.navigator.geolocation.getCurrentPosition(
-      (position) => console.log(position),
+      (position) => {
+        // always use setState
+        this.setState({ lat: position.coords.latitude });
+      },
       (err) => console.log(err)
     );
-    return <div>Latitude:</div>;
+  }
+
+  render() {
+    return <div>Latitude: {this.state.lat}</div>;
   }
 }
 
