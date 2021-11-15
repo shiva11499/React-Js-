@@ -7,3 +7,5 @@ fileignoreconfig:
   checksum: f197ac91144f998e757892caa4941e6e1466a4a98342bebcebb9ca905539a163
 - filename: seasons/yarn.lock
   checksum: 50c7bc8da7cee2f635cfb9a68513940679c2d1dc02cbc30a2c79e9689947c8f8
+- filename: pics/yarn.lock
+  checksum: 2c25f851dc638cea1242e8f6f889d8b40f47b339f74631f52ea0e0edc16ef7eb
