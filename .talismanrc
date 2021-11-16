@@ -15,3 +15,5 @@ fileignoreconfig:
   checksum: 9f2e1e190b7e85136427b834c7d31aa4657ece0597c358f206911a6307479dc6
 - filename: pics/src/api/unsplash.js
   checksum: 2f8e54cdcc6922de53d1030c0204e4d1565ebe96f2bab77967ff0e9b5ad28c87
+- filename: pics/src/components/ImageList.js
+  checksum: 64370f425ae7c088e32d218a95e8a0fe42ea0686702b5fc386e1cbd6ca81ba1e  
