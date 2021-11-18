@@ -19,3 +19,5 @@ fileignoreconfig:
   checksum: 64370f425ae7c088e32d218a95e8a0fe42ea0686702b5fc386e1cbd6ca81ba1e  
 - filename: pics/src/components/ImageList.js
   checksum: dd282b75d23baf1b9347c60fec6383a58671207e3b7302555ecfc2c41b850736
+- filename: videos/yarn.lock
+  checksum: 0c39034bf7b677fd3488321d5cc5e84f09510d6ad3395c6948e8bda9f59a6823
