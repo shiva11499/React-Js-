@@ -21,3 +21,7 @@ fileignoreconfig:
   checksum: dd282b75d23baf1b9347c60fec6383a58671207e3b7302555ecfc2c41b850736
 - filename: videos/yarn.lock
   checksum: 0c39034bf7b677fd3488321d5cc5e84f09510d6ad3395c6948e8bda9f59a6823
+- filename: videos/src/api/youtube.js
+  checksum: 28f095a50cb9c9468ce5653b7588ff561bea2e680af6c38a58ed04e062d89b5b
+- filename: videos/yarn.lock
+  checksum: 50cb0cc329b1068f015503febdd7706dc4065aa2cad330010342e668154a67e5
