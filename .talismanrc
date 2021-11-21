@@ -29,3 +29,5 @@ fileignoreconfig:
   checksum: 216859c375eeb4737ea2875cb1b6ed16902ea2494dcb07035e74f23d4c5327cb
 - filename: widgets/yarn.lock
   checksum: d92a929834d2163df1db19ee8c62203629b7c680ba93c9d6c3f482740eb5e213
+- filename: widgets/src/components/Accordion.js
+  checksum: 12ef29f284835038605ffb68dbe8edd70451dc7491dac010fdfc8d6b95f31f32
